@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\sixthsemester\\addstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\sixthsemester\\addstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\sixthsemester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\sixthsemester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\models\\addstudentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:models\\addstudentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\sixthsemester\\addstudents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\sixthsemester\\addstudents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\semesterfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\semesterfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\sixthsemester\\viewstuents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\sixthsemester\\viewstuents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\views\\sixthsemester\\editstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:views\\sixthsemester\\editstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\semesterone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\semesterone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\semestertwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\semestertwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\semesterfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\semesterfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|c:\\users\\samri\\source\\repos\\samriddhanew\\controllers\\semesterthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAB8833-CEAF-4574-9009-7D2BFB392F85}|SamriddhaNew.csproj|solutionrelative:controllers\\semesterthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentsModel.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Models\\AddStudentsModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddStudentsModel.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Models\\AddStudentsModel.cs",
+              "RelativeToolTip": "Models\\AddStudentsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T02:37:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SemesterFour.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterFour.cs",
+              "RelativeDocumentMoniker": "Controllers\\SemesterFour.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterFour.cs",
+              "RelativeToolTip": "Controllers\\SemesterFour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:44:55.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:39:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SixthSemester.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SixthSemester.cs",
+              "RelativeDocumentMoniker": "Controllers\\SixthSemester.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SixthSemester.cs",
+              "RelativeToolTip": "Controllers\\SixthSemester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:40:22.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudents.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\AddStudents.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\SixthSemester\\AddStudents.cshtml.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\AddStudents.cshtml.cs",
+              "RelativeToolTip": "Views\\SixthSemester\\AddStudents.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:40:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\AddStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\SixthSemester\\AddStudents.cshtml",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\AddStudents.cshtml",
+              "RelativeToolTip": "Views\\SixthSemester\\AddStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T01:58:16.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T01:48:20.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T02:13:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SemesterFive.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterFive.cs",
+              "RelativeDocumentMoniker": "Controllers\\SemesterFive.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterFive.cs",
+              "RelativeToolTip": "Controllers\\SemesterFive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:45:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T01:55:50.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\EditStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\SixthSemester\\EditStudents.cshtml",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\EditStudents.cshtml",
+              "RelativeToolTip": "Views\\SixthSemester\\EditStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T01:58:42.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewStuents.cshtml",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\ViewStuents.cshtml",
+              "RelativeDocumentMoniker": "Views\\SixthSemester\\ViewStuents.cshtml",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Views\\SixthSemester\\ViewStuents.cshtml",
+              "RelativeToolTip": "Views\\SixthSemester\\ViewStuents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T01:59:00.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:59:18.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SemesterThree.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterThree.cs",
+              "RelativeDocumentMoniker": "Controllers\\SemesterThree.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterThree.cs",
+              "RelativeToolTip": "Controllers\\SemesterThree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:44:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-13T02:02:52.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SemesterTwo.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterTwo.cs",
+              "RelativeDocumentMoniker": "Controllers\\SemesterTwo.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterTwo.cs",
+              "RelativeToolTip": "Controllers\\SemesterTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:44:22.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SemesterOne.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterOne.cs",
+              "RelativeDocumentMoniker": "Controllers\\SemesterOne.cs",
+              "ToolTip": "C:\\Users\\samri\\source\\repos\\SamriddhaNew\\Controllers\\SemesterOne.cs",
+              "RelativeToolTip": "Controllers\\SemesterOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:44:08.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
