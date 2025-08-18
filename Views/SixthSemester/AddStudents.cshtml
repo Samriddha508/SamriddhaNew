@@ -11,6 +11,13 @@
 </head>
     <body>
         <div class="container mt-4">
+        <h2>Add Students</h2>
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-success">
+                    @ViewBag.Message
+                </div>
+        }
             <form asp-action="AddStudents" method="post">
                 <label asp-for="FullName" class="form-label" for="Name">Full Name</label>
                 <input asp-for="FullName" class="form-control" id="Name" name="Name" />

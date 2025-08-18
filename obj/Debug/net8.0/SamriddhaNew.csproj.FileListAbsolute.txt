@@ -31,3 +31,4 @@ C:\Users\samri\source\repos\SamriddhaNew\obj\Debug\net8.0\refint\SamriddhaNew.dl
 C:\Users\samri\source\repos\SamriddhaNew\obj\Debug\net8.0\SamriddhaNew.pdb
 C:\Users\samri\source\repos\SamriddhaNew\obj\Debug\net8.0\SamriddhaNew.genruntimeconfig.cache
 C:\Users\samri\source\repos\SamriddhaNew\obj\Debug\net8.0\ref\SamriddhaNew.dll
+C:\Users\samri\source\repos\SamriddhaNew\obj\Debug\net8.0\SamriddhaNew.sourcelink.json

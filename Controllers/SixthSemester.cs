@@ -10,7 +10,18 @@ namespace SamriddhaNew.Controllers
         }
         public IActionResult AddStudents(AddStudentsModel model)
         {
-            return View(new AddStudentsModel());
+            if (ModelState.IsValid)
+            {
+                Console.WriteLine("geting values from user");
+                Console.WriteLine(model.FullName);
+                Console.WriteLine(model.Address);
+
+                ViewBag.Message = "Student added successfully!";
+                ModelState.Clear();
+
+                return View(new AddStudentsModel());
+            }
+            return View(model);
         }
     }
 }
